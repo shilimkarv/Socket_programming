@@ -11,3 +11,5 @@ NOT working!-----
 1. delete is not completed
 2. NO menu at server.
 3.the client which is sending udpate is sending to itself aslo.
+4. Some warnings for delete function as its not yet updated.
+
